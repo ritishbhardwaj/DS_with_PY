@@ -1,0 +1,2 @@
+6.)  
+9.) part(reverse a doubly linked list)
